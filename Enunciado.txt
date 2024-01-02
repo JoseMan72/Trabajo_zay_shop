@@ -16,7 +16,8 @@ Resumencillo de lo que hay que hacer:
 
 # 1. Reproducción de un archivo de audio (Automatico y con controles)
 # 2. Reproducción de un archivo de video (Sin ser automatico y con controles)
-# 3. Etiqueta picture para reproducir imagenes distintas segun el dispositivo
+# 3. Etiqueta picture para reproducir imagenes distintas segun el dispositivo 
+    (index.html linea-234 Pixabay.com)
 # 4. 2 elementos de diseño con transiciones CSS3 con propiedades distintas
 # 5. 2 elementos de diseño con transformaciones CSS3 distintas
 # 6. Animación keyframe CSS3
