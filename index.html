@@ -16,6 +16,7 @@
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    
 <!--
     
 TemplateMo 559 Zay Shop
@@ -233,14 +234,20 @@ https://templatemo.com/tm-559-zay-shop
     </section>
     <!--3. Un ejemplo de uso de la etiqueta "picture" para reproducir imágenes distintas según el dispositivo en el que se visualice la web.-->
     <div class="container py-5">
-        <div class="row">
-            <picture class="col">
-                <source class="img-fluid" srcset="assets/img/Picture-Img/pocket-watch-3156771_640.jpg" media="(min-width: 1200px)">
-                <source class="img-fluid" srcset="assets/img/Picture-Img/sandals-4273243_640.jpg" media="(min-width: 768px)">
-                <img class="img-fluid" src="assets/img/Picture-Img/sunglasses-2523803_640.jpg" alt="Imagen de ejemplo">
-            </picture>
+        <div class="row text-center">
+            <h2 class="col-12">Vacation Offers</h2>
+            <div class="col-12">
+                <picture>
+                    <source class="img-fluid rounded" srcset="assets/img/Picture-Img/pocket-watch-3156771_640.jpg" media="(min-width: 1200px)">
+                    <source class="img-fluid rounded" srcset="assets/img/Picture-Img/sandals-4273243_640.jpg" media="(min-width: 768px)">
+                    <img class="img-fluid rounded" src="assets/img/Picture-Img/sunglasses-2523803_640.jpg" alt="Imagen de ejemplo">
+                </picture>
+                <p class="col-12 pt-5"><a class="btn btn-success">Go Shop</a></p>
+            </div>
         </div>
     </div>
+
+    
     <!-- End Categories of The Month -->
 
 
