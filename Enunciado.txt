@@ -11,3 +11,16 @@ de forma que tenga un objetivo cada una de las cosas introducidas:
 Elaborar una presentación donde se indique el tipo de licencia y todo lo que habéis realizado a lo largo del proyecto y por qué, 
 además se tiene que enumerar cada una de las implementaciones realizadas incluyendo capturas de pantalla de su visualización.  
 Esta presentación tiene que ser defendida en el aula por el grupo. (3 puntos, 1,5 por la presentación y 1,5 individuales por la defensa)
+
+Resumencillo de lo que hay que hacer:
+
+# 1. Reproducción de un archivo de audio (Automatico y con controles)
+# 2. Reproducción de un archivo de video (Sin ser automatico y con controles)
+# 3. Etiqueta picture para reproducir imagenes distintas segun el dispositivo
+# 4. 2 elementos de diseño con transiciones CSS3 con propiedades distintas
+# 5. 2 elementos de diseño con transformaciones CSS3 distintas
+# 6. Animación keyframe CSS3
+# 7. Presentación
+## 7.1. Licencia
+## 7.2. Implementaciones realizadas con capturas de pantalla y por qué
+## 7.3. Defensa en clase
