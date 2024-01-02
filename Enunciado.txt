@@ -24,7 +24,3 @@ Resumencillo de lo que hay que hacer:
 ## 7.1. Licencia
 ## 7.2. Implementaciones realizadas con capturas de pantalla y por qué
 ## 7.3. Defensa en clase
-
-eifbeibe
-
-Cambio para Mi rama
