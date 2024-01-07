@@ -2,4 +2,25 @@
 Custom Css
 */
 
-/*Shop*/
+/*Home*/
+.btn-goshop{
+    background-color: #59ab6e;
+    color: #FFFFFF;
+    transition: background-color 1s ;
+}
+
+.btn-goshop:hover{
+    background-color: #21282b;
+    color: #FFFFFF;
+    transition: background-color 1s ;
+}
+
+/*About*/
+.contenido{
+    opacity : 0;
+}
+
+.services-icon-wap:hover .contenido{
+    opacity: 1;
+    transition: opacity 2s;
+}
