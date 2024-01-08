@@ -94,6 +94,7 @@ body, ul, li, p, a, label, input, div {
   opacity: 0;
   transition: .3s;
 }
+/*Hover para que salgan los tres iconos*/
 .card.product-wap:hover .card .product-overlay {
   visibility: visible;
   opacity: 1;
@@ -189,3 +190,4 @@ body, ul, li, p, a, label, input, div {
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
+
