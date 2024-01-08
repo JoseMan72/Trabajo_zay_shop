@@ -24,3 +24,32 @@ Custom Css
     opacity: 1;
     transition: opacity 2s;
 }
+/* Transicion boton navbar */
+
+.navbar-toggler{
+    transition: transform 0.7s;
+}
+.navbar-toggler:hover{
+    transform: rotate(360deg);
+}
+
+/* Transicion formulario */
+.form-group{
+    padding-top: 15px;
+}
+.form-label{
+    position: absolute;
+    padding-left: 13px;
+    margin-top: -35px;
+
+    color: #6A7989;
+    transform-origin: 150px;
+    transition: all 0.4s;
+}
+.message-label{
+    margin-top: -200px;
+}
+.form-control:focus + .form-label{
+    color: #333333;
+    transform: scale(0.8) translate(-50px, -50px)
+}
