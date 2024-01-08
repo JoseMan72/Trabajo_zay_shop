@@ -83,9 +83,12 @@ Custom Css
     /* Cambio de tamaño */
     50% { transform: scale(1.5); }
     55% { transform: scale(1); }
-    /* Desaparece y aparece hasta el 100% */
+    /* Efecto neon */
     60% { opacity: 1; }
-    65% { opacity: 0; }
+    62% { opacity: 0; }
+    64% { opacity: 1; }
+    67% { opacity: 0; }
+    70% { opacity: 1; }
 }
 
 .saludo {
