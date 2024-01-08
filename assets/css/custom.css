@@ -29,7 +29,7 @@ Custom Css
 .navbar-toggler{
     transition: transform 0.7s;
 }
-.navbar-toggler:hover{
+.navbar-toggler:focus{
     transform: rotate(360deg);
 }
 
@@ -52,4 +52,13 @@ Custom Css
 .form-control:focus + .form-label{
     color: #333333;
     transform: scale(0.8) translate(-50px, -50px)
+}
+
+/* Transicion botones */
+
+.nav-item{
+    transition: transform 0.7s;
+}
+.nav-item:hover{
+    transform: rotate(360deg);
 }
