@@ -58,6 +58,7 @@ Custom Css
 
 .nav-item{
     transition: transform 0.7s;
+    text-align: center;
 }
 .nav-item:hover{
     transform: rotate(360deg);
